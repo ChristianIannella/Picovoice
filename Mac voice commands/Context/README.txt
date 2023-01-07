@@ -1,1 +1,0 @@
-Create a content file here: https://console.picovoice.ai/
