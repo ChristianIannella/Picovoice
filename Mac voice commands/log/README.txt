@@ -1,0 +1,1 @@
+Here you can read logs from daemon.  
